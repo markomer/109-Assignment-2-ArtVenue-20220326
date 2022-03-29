@@ -1,0 +1,28 @@
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0 500px 0 ;
+
+}
+
+.cart-item-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: rgb(123, 35, 206);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 7px solid darkcyan;
+  border-radius: 10px;
+  width: 50%;
+  padding: 10px 15px 25px 10px;
+
+
+}
+
+.cart-item-box h4 {
+  margin: 0 0 15px 5px ;
+  text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+
+.navbar.navbar-expand-lg.navbar-light{
+  background-color: rgb(90, 207, 188);
+}
+
+.nav-link {
+  color: black;
+  font-weight: 700;
+
+}
+
+a {
+  font-weight: 600;
+}
